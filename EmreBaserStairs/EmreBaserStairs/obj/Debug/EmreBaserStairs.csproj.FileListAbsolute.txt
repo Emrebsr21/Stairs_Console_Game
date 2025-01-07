@@ -1,0 +1,10 @@
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\EmreBaserStairs\EmreBaserStairs\bin\Debug\EmreBaserStairs.exe.config
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\EmreBaserStairs\EmreBaserStairs\bin\Debug\EmreBaserStairs.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\EmreBaserStairs\EmreBaserStairs\bin\Debug\EmreBaserStairs.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\EmreBaserStairs\EmreBaserStairs\obj\Debug\EmreBaserStairs.csproj.AssemblyReference.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\EmreBaserStairs\EmreBaserStairs\obj\Debug\EmreBaserStairs.csproj.CoreCompileInputs.cache
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\EmreBaserStairs\EmreBaserStairs\obj\Debug\EmreBaserStairs.exe
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\EmreBaserStairs\EmreBaserStairs\obj\Debug\EmreBaserStairs.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\EmreBaserStairs\EmreBaserStairs\bin\Debug\ClassLibrary1.dll
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\EmreBaserStairs\EmreBaserStairs\bin\Debug\ClassLibrary1.pdb
+C:\Users\emreb_knxeiac\OneDrive\Masaüstü\C#\PRG665\New folder\EmreBaserStairs\EmreBaserStairs\obj\Debug\EmreBase.072EC70C.Up2Date
